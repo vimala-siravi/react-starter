@@ -11,7 +11,7 @@ https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
 Clone the repo
 
 ```
-https://github.com/vimala95/react-starter.git
+https://github.com/vimala-siravi/react-starter.git
 ```
 
 Install the dependencies
